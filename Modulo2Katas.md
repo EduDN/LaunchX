@@ -18,7 +18,7 @@
 
 
 
-**DESACTIVAR ENTORNO 
+## DESACTIVAR ENTORNO
 
 ###### `deactivate`
 
